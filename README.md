@@ -10,7 +10,8 @@ It takes some time to install the libraries. After the installation, the environ
 __Activate__  
 
 <code>$ source ~/comp4211_env/bin/activate</code>
-Then you should see **(comp4211)** in the terminal prompt  
+
+Then you should see **(comp4211_env)** in the terminal prompt  
 
 __Deactivate__  
 
