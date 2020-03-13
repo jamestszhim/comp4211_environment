@@ -1,10 +1,11 @@
 # comp4211_environment
 
 ## Create Virtual Environment and Install packages
-Running the following code in the shell:  
+Running the following code in the shell: 
+
 <code>$ source build_environment.sh</code>    
 
-It takes sometimes to install the libraries. After the installation, the virtual environment will be located at ~/comp4211_env
+It takes some time to install the libraries. After the installation, the environment will be located at ~/comp4211_env
 ## Activate Virtual Environment
 __Activate__  
 
