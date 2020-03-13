@@ -1,11 +1,16 @@
 # comp4211_environment
-Python environment
+
 ## Create Virtual Environment and Install packages
 Running the following code in the shell:  
+<code>$ source build_environment.sh</code>    
 
-<code>$ chmod +x build_environment.sh</code>  
-<code>$ ./build_environment.sh</code>    
-
-The virtual environment will be located at ~/comp4211_env
+It takes sometimes to install the libraries. After the installation, the virtual environment will be located at ~/comp4211_env
 ## Activate Virtual Environment
-<code>source ~/comp4211_env/bin/activate</code>
+__Activate__  
+
+<code>$ source ~/comp4211_env/bin/activate</code>
+Then you should see **(comp4211)** in the terminal prompt  
+
+__Deactivate__  
+
+<code>$ deactivate</code>
