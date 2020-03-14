@@ -1,7 +1,7 @@
 # comp4211_environment
 
 ## Create Virtual Environment and Install packages
-Running the following code in the shell: 
+Run the following code in the shell: 
 
 <code>$ source build_environment.sh</code>    
 
