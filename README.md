@@ -9,7 +9,7 @@ It takes some time to install the libraries. After the installation, the environ
 ## Activate Virtual Environment
 __Activate__  
 
-<code>$ source ~/comp4211_env/bin/activate</code>
+<code>$ source ~/comp4211_env/bin/activate.csh</code>
 
 Then you should see **(comp4211_env)** in the terminal prompt  
 
